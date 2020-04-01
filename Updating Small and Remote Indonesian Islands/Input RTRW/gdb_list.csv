@@ -1,0 +1,26 @@
+gdb_in,gdb_out,htn_in,htn_out
+temp/_1000_SUMATERA/1700_BENGKULU.gdb,Bengkulu.gdb/RTRW,temp/Kws/Bengkulu,Bengkulu.gdb/Hutan
+temp/_7000_SULAWESI/_7500_GORONTALO.gdb,Gorontalo.gdb/RTRW,temp/Kws/Gorontalo,Gorontalo.gdb/Hutan
+temp/_1000_SUMATERA/1500_JAMBI.gdb,Jambi.gdb/RTRW,temp/Kws/Jambi,Jambi.gdb/Hutan
+temp/_6000_KALIMANTAN/_6100_KALIMANTAN_BARAT.gdb,Kalimantan Barat.gdb/RTRW,temp/Kws/Kalbar,Kalbar.gdb/Hutan
+temp/_6000_KALIMANTAN/_6200_KALIMANTAN_TENGAH.gdb,Kalimantan Selatan.gdb/RTRW,temp/Kws/Kalsel,Kalsel.gdb/Hutan
+temp/_6000_KALIMANTAN/_6300_KALIMANTAN_SELATAN.gdb,Kalimantan Tengah.gdb/RTRW,temp/Kws/Kalteng,Kalteng.gdb/Hutan
+temp/_6000_KALIMANTAN/_6400_KALIMANTAN_TIMUR.gdb,Kalimantan Timur.gdb/RTRW,temp/Kws/Kaltim,Kaltim.gdb/Hutan
+temp/_6000_KALIMANTAN/_6500_KALIMANTAN_UTARA.gdb,Kalimantan Utara.gdb/RTRW,temp/Kws/Kaltara,Kaltara.gdb/Hutan
+temp/_1000_SUMATERA/2100_KEPULAUAN_RIAU.gdb,Kep Riau.gdb/RTRW,temp/Kws/Kepri,Kepri.gdb/Hutan
+temp/_1000_SUMATERA/1800_LAMPUNG.gdb,Lampung.gdb/RTRW,temp/Kws/Lampung,Lampung.gdb/Hutan
+temp/_8000_MALUKU/_8200_MALUKU_UTARA.gdb,Maluku Utara.gdb/RTRW,temp/Kws/Maluku_Utara,Maluku_Utara.gdb/Hutan
+temp/_8000_MALUKU/_8100_MALUKU.gdb,Maluku.gdb/RTRW,temp/Kws/Maluku,Maluku.gdb/Hutan
+temp/_5000_BALI_NUSTRA/_5200_NUSA_TENGGARA_BARAT.gdb,NTB.gdb/RTRW,temp/Kws/NTB,NTB.gdb/Hutan
+temp/_5000_BALI_NUSTRA/_5300_NUSA_TENGGARA_TIMUR.gdb,NTT.gdb/RTRW,temp/Kws/NTT,NTT.gdb/Hutan
+temp/_9000_PAPUA/PAPUA BARAT.gdb,Papua Barat.gdb/RTRW,temp/Kws/Papua_Barat,Papua_Barat.gdb/Hutan
+temp/_9000_PAPUA/PAPUA.gdb,Papua.gdb/RTRW,temp/Kws/Papua,Papua.gdb/Hutan
+temp/_1000_SUMATERA/1400_RIAU.gdb,Riau.gdb/RTRW,temp/Kws/Riau,Riau.gdb/Hutan
+temp/_7000_SULAWESI/_7600_SULAWESI_BARAT.gdb,Sulawesi Barat.gdb/RTRW,temp/Kws/Sulbar,Sulbar.gdb/Hutan
+temp/_7000_SULAWESI/_7300_SULAWESI_SELATAN.gdb,Sulawesi Selatan.gdb/RTRW,temp/Kws/Sulsel,Sulsel.gdb/Hutan
+temp/_7000_SULAWESI/_7200_SULAWESI_TENGAH.gdb,Sulawesi Tengah.gdb/RTRW,temp/Kws/Sulteng,Sulteng.gdb/Hutan
+temp/_7000_SULAWESI/_7400_SULAWESI_TENGGARA.gdb,Sulawesi Tenggara.gdb/RTRW,temp/Kws/Sultra,Sultra.gdb/Hutan
+temp/_7000_SULAWESI/_7100_SULAWESI_UTARA.gdb,Sulawesi Utara.gdb/RTRW,temp/Kws/Sulut,Sulut.gdb/Hutan
+temp/_1000_SUMATERA/1300_SUMATERA_BARAT.gdb,Sumatera Barat.gdb/RTRW,temp/Kws/Sumbar,Sumbar.gdb/Hutan
+temp/_1000_SUMATERA/1600_SUMATERA_SELATAN.gdb,Sumatera Selatan.gdb/RTRW,temp/Kws/Sumsel,Sumsel.gdb/Hutan
+temp/_1000_SUMATERA/1200_SUMATERA_UTARA.gdb,Sumatera Utara.gdb/RTRW,temp/Kws/Sumut,Sumut.gdb/Hutan

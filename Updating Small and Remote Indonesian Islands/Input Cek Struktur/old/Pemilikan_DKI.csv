@@ -1,0 +1,46 @@
+﻿a,b,c,objID,objType,objYear,wapName,wakName,wacName,pmnID,pmnObjName,area,pmnRemarks,kec
+233062,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\12. DKI Jakarta 2012\SHP\PULAU AYER\Pemilikan\pulau ayer pemilikan.shp,"['KELURAHAN', 'PULAU', 'AREA', 'PERIMETER', 'HECTARES', 'PEMILIKAN', 'NOMOR_IDEN', 'NAMA', 'WNA_WNI', 'PROFESI', 'DOMISILI', 'TAHUN_PENG', 'KETERANGAN', 'NO__SU', 'LUAS', 'ALAMAT_BID', 'STATUS_TAN', 'TIPE_STATU', 'TAHUN', 'NO__STATUS']",1,Pulau Kecil,2012,Jakarta,Kabupaten Kep. Seribu,Pulau Ayer,,,,,PulauAyer
+233094,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\12. DKI Jakarta 2012\SHP\PULAU LAKI\Pemilikan\pulau laki pemilikan.shp,"['KELURAHAN', 'PULAU', 'AREA', 'PERIMETER', 'HECTARES', 'NOMOR_IDEN', 'NAMA', 'WNA_WNI', 'PROFESI', 'DOMISILI', 'TAHUN_PENG', 'KETERANGAN', 'NO__SU', 'LUAS', 'ALAMAT_BID', 'STATUS_TAN', 'TIPE_STATU', 'TAHUN', 'NO__STATUS']",1,Pulau Kecil,2012,Jakarta,Kabupaten Kep. Seribu,Pulau Laki,,,,,PulauLaki
+233158,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\12. DKI Jakarta 2012\SHP\PULAU PARI\Pemilikan\pulau pari pemilikan.shp,"['IDENT', 'IDENT_1', 'NAMA_PEMIL', 'WNA_WNI_', 'PROFESI', 'QPROFESI', 'DOMISILI', 'STATUS_TAN', 'TIPE_STATU', 'NO__STATUS', 'TAHUN', 'KELURAHAN', 'PULAU', 'AREA', 'PERIMETER', 'HECTARES', 'KETERANGAN', 'NOMOR_SU', 'LUAS', 'ALAMAT_BID', 'TAHUN_PENG']",1,Pulau Kecil,2012,Jakarta,Kabupaten Kep. Seribu,Pulau Pari,,,,,PulauPari
+233158,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\12. DKI Jakarta 2012\SHP\PULAU LANCANG\Pemilikan\pulau lancang pemilikan.shp,"['NOMOR', 'IDENT', 'NOMOR_URUT', 'PULAU', 'NAMA', 'WNA_WNI_', 'PROFESI', 'PROFESI_1', 'DOMISILI', 'DOMISILI_1', 'JENIS_PENG', 'TAHUN', 'AREA', 'PERIMETER', 'HECTARES', 'LUAS', 'ALAMAT_BID', 'STATUS_TAN', 'NO__SU', 'TIPE_STATU', 'NO__STATUS', 'TAHUN_PENG', 'KETERANGAN']",1,Pulau Kecil,2012,Jakarta,Kabupaten Kep. Seribu,Pulau Lancang,,,,,PulauLancang
+94352,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\12. DKI 2010\HasilUpdatingDKI2010@mi\Pademangan@mi\PemilikanPademangan@mi.shp,"['ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'KETERANGAN', 'LUAS', 'SIMBOL']",2,Pesisir,2010,Jakarta,Kota Jakarta Utara,Kecamatan Pademangan,,,,,Pademangan
+94372,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\12. DKI 2010\HasilUpdatingDKI2010@mi\TanahKoja@mi\PemilikanTanahKoja@mi.shp,"['ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'KETERANGAN', 'LUAS', 'SIMBOL']",2,Pesisir,2010,Jakarta,Kota Jakarta Utara,Kecamatan Tanah Koja,,,,,TanahKoja
+94388,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\12. DKI 2010\HasilUpdatingDKI2010@mi\TanjungPriuk@mi\PemilikanTanjungPriuk@mi.shp,"['ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'KETERANGAN', 'LUAS', 'SIMBOL']",2,Pesisir,2010,Jakarta,Kota Jakarta Utara,Kecamatan Tanjung Priuk,,,,,TanjungPriuk
+94331,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\12. DKI 2010\HasilUpdatingDKI2010@mi\Cilincing@mi\PemilikanCilincing@mi.shp,"['KELURAHAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'KETERANGAN', 'LUAS', 'SIMBOL']",2,Pesisir,2010,Jakarta,Kota Jakarta Utara,Kecamatan Cilincing,,,,,Cilincing
+157506,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\12. DKI 2011\SHP\Pulau Untung Jawa\pulau untung jawa pemilikan tanah.shp,"['AREA', 'NOMOR', 'ALAMAT_BID', 'NO__SU', 'LUAS', 'NAMA', 'KEWARGANEG', 'PROFESI', 'CODE_PROFE', 'DOMISILI', 'TAHUN_PENG', 'STATUS_TAN', 'TIPE_STATU', 'NO__STATUS', 'KETERANG_1', 'HECTARES']",1,Pulau Kecil,2011,Jakarta,Kabupaten Kep. Seribu,Pulau Untung Jawa,,,,,PulauUntungJawa
+157478,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\12. DKI 2011\SHP\Pulau Bidadari\pulau bidadari pemilikan tanah.shp,"['NO_IDENT', 'PULAU', 'TAHUN_PENG', 'NAMA', 'NO__SU', 'LUAS__M2_', 'STATUS_TAN', 'TIPE_STATU', 'NO__STATUS', 'TAHUN', 'KETERANGAN', 'AREA', 'PERIMETER', 'HECTARES']",1,Pulau Kecil,2011,Jakarta,Kabupaten Kep. Seribu,Pulau Bidadari,,,,,PulauBidadari
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

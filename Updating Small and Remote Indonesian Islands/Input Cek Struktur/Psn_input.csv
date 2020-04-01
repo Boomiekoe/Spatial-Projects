@@ -1,0 +1,165 @@
+﻿a,b,c,objID,objType,objYear,wapName,wakName,wadName,pmnID,pmnObjName,area,pmnRemarks,Pulau
+,C:\WP3WT\PPKT\SHP\Pulau Meatimarang\Penguasaan_region.shp,"['FID','ID','NAMA','KEWARGANEG','PROFESI','DOMISILI','PENGUASAAN','PENGUASA0','PENGUASA1','KETERANGAN','DESA','jenisKasa']",1,Pulau Kecil,2017,Maluku,,Kecamatan Metimiarang,,PENGUASAAN,,Metimiarang,Metimiarang
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2013\32. Papua 2013\04 03 2014\SHP\Kiwirok Timur\Penguasaan Tanah Kiwirok Timur UTM.shp,"['FID','Penguasaan','Ket_Pengg','Las_M2','Keterangan']",1,Perbatasan,2013,Papua,,Kecamatan Kiwirok Timur,,Ket_Penggu,,Kiwirok Timur,Kiwirok Timur
+,C:\WP3WT\PPKT\SHP\Kolepon\PENGUASAAN\s_kolepon.shp,"['FID','SUKU','PGS','NAMA_PULAU','PGN','PENGGUNAAN','PGS_KODE','PENGUASAAN','kasa_bar','kode']",1,Pulau Kecil,2017,Papua,,Kecamatan Kolepom,,PENGUASAAN,,Kolepom,Kolepom
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\33. Papua Barat 2011\08 12 2013\MANOKWARI UTARA\PANTURA SHP\Penguasaan\Penguasaan.shp,"['FID','Id','OBJECT_ID','Penguasaan','Jenis_Peng','Keterangan']",1,Pesisir,2011,Papua Barat,,Kecamatan Pantura,Jenis_Peng,,,Pantura,Pantura
+,C:\WP3WT\PPKT\SHP\Miossu\Peng1.shp,"['FID','Id','Penggnaan','Las','Penguasaan']",1,Pulau Kecil,2017,Papua Barat,,Kecamatan Miossu,,Penguasaan,,Miossu,Miossu
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\29. Gorontalo 2010\PETA PENGUASAAN\Kec. Bone\Penguasaan.shp,"['FID','Id','Penguasaan']",1,Pesisir,2010,Gorontalo,,Kecamatan Bone Raya,,Penguasaan,,Bone Raya,Bone Raya
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\24. Sulut 2010\5 10 2011\2010\ronowulu dan likupang timur\Ranowulu\penguasaan.shp,"['FID','KODE_JENIS','PENGUASAAN','KETERANGAN','text']",1,Pesisir,2010,Sulawesi Utara,,Kecamatan Ronowulu,KODE_JENIS,,,Ronowulu,Ronowulu
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2013\24. Sulut 2013\SHP 2013\Pulau Kecil\Pulau Gangga\P. Gangga Penguasaan.shp,"['FID_Pengua','Dusun','OBJECTID','Penguasaan','NAMA_1','PROFESI','DOMISILI','Tahun_Peng','WNI_WNA','kode','ket','luas','FID_Export','pengguna_1']",1,Pulau,2013,Sulawesi Utara,,Pulau Gangga,,Penguasaan,,Gangga,Gangga
+,F:\WP3WT\@ Integrasi Data\2013\26 Sulteng\2012\Kabupaten Parigi Mountong\Kecamatan Ambibabo\psn_ampibabo.shp,"['FID','objType','objYear','wapName','wakName','wacName','psnID','psnObjName','area','psnRemarks','objID']",1,Pesisir,2012,Sulawesi Tengah,,Kecamatan Ampibabo,,psnObjName,,Ampibabo,Ampibabo
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2013\25. Sulteng 2013\07 07 2014\Peta Tematik\KEC.PARIGI SELATAN\penguasaan.shp,"['FID','A_KECAMATA','PENGUASAAN','AREA','PERIMETER','HECTARES','LUAS']",1,Pesisir,2013,Sulawesi Tengah,,Kecamatan Parigi Selatan,,PENGUASAAN,,Parigi Selatan,Parigi Selatan
+,C:\WP3WT\new_data\sulteng\PESISIR\WP3WT SOJOL UTARA\sojol utara\Penguasaan Tanah Final.shp,"['FID','ObjType','ObjYear','wapName','wakName','wadName','ptnID','ptnObjName','psnID','psnObjName','area_1','psnRemarks','LUAS']",1,Pesisir,2017,Sulawesi Tengah,,Kecamatan Sojol Utara,,psnObjName,,Sojol Utara,Sojol Utara
+,C:\@LAPORAN DAERAH 2017\Sulawesi Tenggara_5SP\PESISIR PULAU TOWEA\Data SHP\psn_towea.shp,"['objID','objType','objYear','wapName','wakName','wacName','wadName','psnID','psnObjName','Area','psnRemark']",1,Pulau Kecil,2017,Sulawesi Tenggara,,Kecamatan Pulau Towea,,psnObjName,,Pulau Towea,Pulau Towea
+,C:\@LAPORAN DAERAH 2017\Sulawesi Tenggara_5SP\PESISIR WATUBANGA\Data\psn_watubangga.shp,"['FID','objID','objType','objYear','wapName','wakName','wacName','wadName','psnID','psnObjName','Area','psnRemark']",1,Pesisir,2017,Sulawesi Tenggara,,Kecamatan Watubangga,,psnObjName,,Watubangga,Watubangga
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\26. Sulsel 2016\BOLA\FAIL SHP\Penguasaan.shp,"['FID','KECAMATAN','Penguasaan','Las_Ha','Kode']",1,Pesisir,2016,Sulawesi Selatan,,Kecamatan Bola,Kode,,,Bola,Bola
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\26. Sulsel 2016\TAKKALALLA\FAIL SHP\Penguasaan.shp,"['FID','KECAMATAN','Las','Penguasaan','Kode']",1,Pesisir,2016,Sulawesi Selatan,,Kecamatan Takkala,Kode,,,Takkala,Takkala
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\26. Sulsel 2016\PENRANG\FAIL SHP\Penguasaan.shp,"['FID','KECAMATAN','Penguasaan','Las_Ha','Kode']",1,Pesisir,2016,Sulawesi Selatan,,Kecamatan Penrang,Kode,,,Penrang,Penrang
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\26. Sulsel 2016\SAJOANGING\PERTANAHAN_SAJOANGING_WAJO.shp,"['FID','ADM','Qwajo','Q_code','PEMILIKAN','Code_Pemil','PENGUASAAN','code_Peng','PEMANFAATA','PROVINSI','KABUPATEN','KECAMATAN','PERTANAHAN','L_M2','L_Ha']",1,Pesisir,2016,Sulawesi Selatan,,Kecamatan Sajoangin,,PENGUASAAN,,Sajoangin,Sajoangin
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\21. Kalteng 2010\KALTENG UPDATING 2010\1. Kecamatan Kapuas Kuala\Data\GUPT_KualaKapuas.shp,"['FID','No_Identif','KodeJenisP','ID','ID_TABEL','ID_WILAYAH','WILAYAH','JENIS','KETERANG_1','LUAS']",1,Pesisir,2010,Kalimantan Tengah,,Kecamatan Kapuas Kuala,KodeJenisP,,,Kapuas Kuala,Kapuas Kuala
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\21. Kalteng 2010\KALTENG UPDATING 2010\4. Kecamatan Katingan Kuala\Data\GUPT_KatinganKuala.shp,"['FID','No_Identif','KodeJenisP','Keterangan','ID_1','ID_TABEL','ID_WILAYAH','WILAYAH','JENIS','KETERANG_1','LUAS']",1,Pesisir,2010,Kalimantan Tengah,,Kecamatan Katingan Kuala,KodeJenisP,,,Katingan Kuala,Katingan Kuala
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\21. Kalteng 2010\KALTENG UPDATING 2010\6. Kecamatan Teluk Sampit\Data\GUPT_Teluk_Sampit.shp,"['FID','No_Identif','KodeJenisP','Keterangan','ID_1','ID_TABEL','ID_WILAYAH','WILAYAH','JENIS','LUAS']",1,Pesisir,2010,Kalimantan Tengah,,Kecamatan Teluk Sampit,KodeJenisP,,,Teluk Sampit,Teluk Sampit
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\23. KalSel 2011\Kab. Tanah Laut Kec. Jorong\SHP\2. Peta Penguasaan Tanah\Penguasaan_Tanah.shp,"['FID','Kode','Penguasaan','Las']",1,Pesisir,2011,Kalimantan Selatan,,Kecamatan Jorong,Kode,,,Jorong,Jorong
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\04 12 2013\Long Apari\Hasil long Apari\pengguasaan\pengguasaanbdnhukum.shp,"['FID','FID_pengg','FID_longap','REGION','DESA','KECAMATAN','KABUPATEN','PROVINSI','NEGARA','KODE_UNSUR','NAMA_UNSUR','TOPONYM','LUAS_DESA','LUAS_KECA','LUAS_KABU','LUAS_PROV','WEB_KABU','WEB_PROV','KODE_BPS','IBU_KABU','POPU_KABU','IBU_PROV','POPU_PROV','LUAS_UNSUR','kecamata_1','komentar','Kecamata_2','Ha','GRID','FID_peng_1','REGION_1','DESA_1','KECAMATA_3','KABUPATE_1','PROVINSI_1','NEGARA_1','KODE_UNS_1','NAMA_UNS_1','TOPONYM_1','LUAS_DES_1','LUAS_KEC_1','LUAS_KAB_1','LUAS_PRO_1','WEB_KABU_1','WEB_PROV_1','KODE_BPS_1','IBU_KABU_1','POPU_KAB_1','IBU_PROV_1','POPU_PRO_1','LUAS_UNS_1','kecamata_4','komentar_1','Kecamata_5','Ha_1','GRID_1','penggnaan','Las_Ha','FID_edit_i','LUAS','NAMA','HPH_HTI','las_1','lashph_ha']",1,Perbatasan,2012,Kalimantan Timur,,Kecamatan Long Apari,KODE_UNSUR,,,Long Apari,Long Apari
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\27 02 13\shpkayanhulu\shp\Pertanahan Kayan Hulu.shp,"['FID','FID_KayanH','REGION','DESA','KECAMATAN','KABUPATEN','PROVINSI','NEGARA','KODE_UNSUR','NAMA_UNSUR','TOPONYM','LUAS_DESA','LUAS_KECA','LUAS_KABU','LUAS_PROV','WEB_KABU','WEB_PROV','KODE_BPS','IBU_KABU','POPU_KABU','IBU_PROV','POPU_PROV','LUAS_UNSUR','kecamata_1','komentar','Kecamata_2','Ha','GRID','FID_Kayan','DESA_1','KECAMATA_3','KABUPATE_1','PROVINSI_1','NEGARA_1','KODE_UNS_1','NAMA_UNS_1','IBU_KABU_1','IBU_PROV_1','Ha_1','Las','KET_KAWASA','POLARUANG','FLU_CLASS','Sbyek','NAME_HPH','KODE','KETERANGAN','Tanah']",1,Perbatasan,2012,Kalimantan Timur,,Kecamatan Kayan Hulu,KODE,,,Kayan Hulu,Kayan Hulu
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\27 02 13\shpkayanselatan\shp\Pertanahan_KayanSelatan.shp,"['FID_Tabel_','KECAMATAN','KABUPATEN','PROVINSI','NEGARA','IBU_KABU_1','IBU_PROV_1','Ha_1','Luas','Kode','Keterangan','Code','Pemilikan','KODE_UNSUR','NAMA_UNSUR']",1,Perbatasan,2012,Kalimantan Timur,,Kecamatan Kayan Selatan,,Keterangan,,Kayan Selatan,Kayan Selatan
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\04 12 2013\Pesisir 2012\SHP pesisir 2012\Penguasaan Tanah_Kaliorang.shp,"['FID','Penguasaan','Las_Ares','Las_Ha']",1,Pesisir,2012,Kalimantan Timur,,Kecamatan Kaliorang,,Penguasaan,,Kaliorang,Kaliorang
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\04 12 2013\Pesisir 2012\SHP pesisir 2012\Penguasaan Tanah Sandaran.shp,"['FID','Penguasaan','Las_Ares','Las_Ha']",1,Pesisir,2012,Kalimantan Timur,,Kecamatan Sandaran,,Penguasaan,,Sandaran,Sandaran
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\22. Kaltim 2012\04 12 2013\Pesisir 2012\SHP pesisir 2012\Penguasaan Tanah Sangkulirang.shp,"['FID','Penguasaan','Las_Ares','Las_Ha']",1,Pesisir,2012,Kalimantan Timur,,Kecamatan Sangkulirang,,Penguasaan,,Sangkulirang,Sangkulirang
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2013\22. Kaltim 2013\04 12 2013\PKT 2013\Pesisir 2013\shp_pesisir_kuaro\penguasaan_kuaro.shp,"['FID','FID_Pengg','ID','KECAMATAN','AREA','PERIMETER','ACRES','HECTARES','Las','JnKp','No','PENGUASAAN','LUAS_M','LUAS_HA']",1,Pesisir,2013,Kalimantan Timur,,Kecamatan Kuaro,,PENGUASAAN,,Kuaro,Kuaro
+,C:\WP3WT\new_data\kaltim\PKT 2015\PESISIR PPU 2015\PETA\SHP\Analisa_Wilayah_Pesisir_Waru_PPU_Kaltim_2015.shp,,1,Pesisir,2015,Kalimantan Timur,,Kecamatan Waru,,PENGUASAAN,,Waru,Waru
+,C:\WP3WT\new_data\kaltim\PKT 2015\PESISIR PPU 2015\PETA\SHP\Analisa_Wilayah_Pesisir_Babulu_PPU_Kaltim_2015.shp,,1,Pesisir,2016,Kalimantan Timur,,Kecamatan Babulu,,PENGUASAAN,,Babulu,Babulu
+,C:\WP3WT\new_data\kaltim\PKT 2017\BENGALON_2017\SHP\Pesisir_Kecamatan_Muara_Jawa_2016.shp,"['FID','NAMA_KEC','PGT_2016','StatsAwal','Stats_Des','KESESUAIAN','BIDOBJECT','BIDID','Proses_Hak','TERDAFTAR','SK_718','PEMILIKAN','PENGUASAAN','KODE','LUAS_HA']",1,Pesisir,2016,Kalimantan Timur,,Kecamatan Muara Jawa,,PENGUASAAN,,Muara Jawa,Muara Jawa
+,C:\WP3WT\new_data\kaltim\PKT 2016\Laporan Pesisir 2016 Kukar\PETA_PESISIR_MARANGKAYU_2016\SHAPEFILE_MARANGKAYU_2016\marangkayu_pertanahan.shp,,1,Pesisir,2016,Kalimantan Timur,,Kecamatan Marang Kayu,,penguasaan,,Marang Kayu,Marang Kayu
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\22. Kaltim 2010 (dr file updating)\Penguasaan_kaltim.shp,"['FID','ID','ID_TABEL','ID_WILAYAH','WILAYAH','JENIS','KETERANGAN','LUAS','Ket','Nomor_Iden','Pemilikan','Kode_Jenis','Keterang_1','Penguasaan']",1,Pesisir,2010,Kalimantan Timur,,Kecamatan Biatan Gabungan,JENIS,,,Biatan Gabungan,Biatan Gabungan
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\11. Banten 2012\2012\Laporan Akhir WP3WT 2012\SHP\Tirtayasa\penguasaan.shp ,"['FID','PNGUASAAN']",1,Pesisir,2012,Banten,,Kecamatan Tirtayasa,,PNGUASAAN,,Tirtayasa,Tirtayasa
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\16. Jatim 2011\Kota Pasuruan\BUGULKIDUL\Bugulkidul_Penguasaan.shp,"['FID','KODE_1','KET_PENGUA','Las_m2']",1,Pesisir,2011,Jawa Timur,,Kecamatan Bugul Kidul,KODE_1,,,Bugul Kidul,Bugul Kidul
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\16. Jawa Timur 2016\1. KECAMATAN DUNGKEK\1.SHP\psn_dungkek.shp,"['FID','NIB','KECAMATAN','DESA','SU','HAK','LUAS','GUNATANAHK','GUNATANAHU','KOTAK','OBJECTID_2','KODE_DESA','PULAU','OBJECTID_3','NAMA_UNSUR','Shape_Le_1','GCP','objID','objType','objYear','wapName','wakName','wacName','wadName','ptnID','ptnObjName','Area','ptnRemark','pmnID','pmnObjName','pmnRemark','psnID','psnObjName']",1,Pesisir,2016,Jawa Timur,,Kecamatan Dungkek,,psnObjName,,Dungkek,Dungkek
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\16. Jawa Timur 2016\2. KECAMATAN GAPURA\1.SHP\psn_gapura.shp,"['FID','NO_KEC','KODE_KECAM','KODE_DESA','KECAMATAN_','PULAU','DESA_SK','LABEL','objID','objType','objYear','wapName','wakName','wacName','wadName','ptnID','ptnObjName','Area','ptnRemark','pmnID','pmnObjName','psnID','psnObjName']",1,Pesisir,2016,Jawa Timur,,Kecamatan Gapura,,psnObjName,,Gapura,Gapura
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\18. NTB 2011\Lombok Tengah\Praya Barat\PENGUASAAN_PRAYA_BARAT.shp,"['FID','NIB','kode_kas','Jenis_kas','Ketrgan','Shape_Area']",1,Pesisir,2011,NTB,,Kecamatan Praya Barat,kode_kuas,,,Praya Barat,Praya Barat
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec ALAS kab sumbawa\Hasil_Kuasa_Alas.shp,"['FID','NIB','Kode_kasa','Kasa_Teks','Ket','Las','Shape_Area']",1,Pesisir,2016,NTB,,Kecamatan Alas,Kode_Kuasa,,,Alas,Alas
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec BUER kab sumbawa\Hasil_Kuasa_Buer.shp,"['FID','N_Poly','Kode_LU','LU_Teks','Pemanfaata','Kode_Kasa','Kasa_teks','Shape_Area']",1,Pesisir,2016,NTB,,Kecamatan Buer,Kode_Kuasa,,,Buer,Buer
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec RHEE kab sumbawa\penguasaan_tanah_rhee.shp,"['FID','KETERANGAN','Kode_LU','NIB','ket_kd_LU','kode_ka','ket_kd_ka']",1,Pesisir,2016,NTB,,Kecamatan Rhee,,ket_kd_kua,,Rhee,Rhee
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec LAB BADAS kab sumbawa\penguasaan_tanah_lab_badas.shp,"['FID','KETERANGAN','Kode_LU','NIB','Ket_kd_l','Kode_KUA','ket_kd_ka']",1,Pesisir,2016,NTB,,Kecamatan Labuhan Badas,,ket_kd_kua,,Labuhan Badas,Labuhan Badas
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec SUMBAWA BESAR kab sumbawa\penguasaan_tanah_sumb_besar.shp,"['FID','Kode_LU','NIB','ket_kd_l','kode_ka','ket_kd_ka']",1,Pesisir,2016,NTB,,Kecamatan Sumbawa,,ket_kd_kua,,Sumbawa,Sumbawa
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec MOYO UTARA kab sumbawa\penguasaan_tanah_moyo_utara.shp,"['FID','KETERANGAN','kd_l','NIB','Ket_kd_l','kd_ka','ket_kd_ka']",1,Pesisir,2016,NTB,,Kecamatan Moyo Utara,,ket_kd_kua,,Moyo Utara,Moyo Utara
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\18. NTB 2016\3_SHP WP3WT 2016\kec MOYO HILIR kab sumbawa\penguasaan_tanah_moyo_hilir.shp,"['FID','KETERANGAN','KOde_LU','NIB','Keterang_1','Ket_kd_LU','kode_KUA','ket_kd_ka']",1,Pesisir,2016,NTB,,Kecamatan Moyo Hilir,,ket_kd_kua,,Moyo Hilir,Moyo Hilir
+,C:\@LAPORAN DAERAH 2017\NTB_4SP\3_SHP WP3WT 2017\Kec LABANGKA Kab. Sumbawa\shp\Kecamatan Labangka.gdb\psn_Labangka,"['NoBID','RE_F','objID','objType','objYear','wapName','wakName','wacName','wadName','psnID','psnObjName','Area','psnRemark','las','Shape_Area']",1,Pesisir,2017,NTB,,Kecamatan Labangka,,psnObjName,,Labangka,Labangka
+,C:\@LAPORAN DAERAH 2017\NTB_4SP\3_SHP WP3WT 2017\Kec LAPE Kab. Sumbawa\shp\Kecamatan Lape.gdb\psn_lape,"['RE_F','NIB','objID','objType','objYear','wapName','wakName','wacName','ptnObjName','wadName','psnID','psnObjName','Area','psnRemark','Shape_Area']",1,Pesisir,2017,NTB,,Kecamatan Lape,,psnObjName,,Lape,Lape
+,C:\@LAPORAN DAERAH 2017\NTB_4SP\3_SHP WP3WT 2017\Kec MANRONGE Kab. Sumbawa\shp\Kecamatan Maronge.gdb\psn_maronge,"['Keterangan','objID','objType','objYear','wapName','wakName','wacName','RE_F','wadName','psnID','psnObjName','Area','psnRemark','Shape_Area']",1,Pesisir,2017,NTB,,Kecamatan Manronge,,psnObjName,,Manronge,Manronge
+,C:\@LAPORAN DAERAH 2017\NTB_4SP\3_SHP WP3WT 2017\Kec PLAMPANG Kab. Sumbawa\shp\Kecamatan Plampang.gdb\psn_plampang,"['KET','RE_F','NoBid','objID','objType','objYear','wapName','wakName','wacName','Ket_','wadName','psnID','psnObjName','Area','psnRemark','Shape_Area']",1,Pesisir,2017,NTB,,Kecamatan Plampang,,psnObjName,,Plampang,Plampang
+,C:\WP3WT\PPKT\SHP\Ndana - Dana\nd_pgs.shp,"['FID','NM_ID','NMR_ID','NAMA','KWRGN','PRFSI','DMSLI','JNS_PN','KETERANGAN','ALAS_PN','KODE_PULAU']",1,Pulau Kecil,2017,NTB,,Kecamatan Ndana,,KETERANGAN,,Ndana,Ndana
+,C:\WP3WT\PPKT\SHP\DANA\dn_pgs.shp,"['FID','ID','AREA','PERIMETER','NM_ID','NMR_ID','JENIS','KETERANGAN','KODE_PULAU']",1,Pulau Kecil,2017,NTB,,Kecamatan Dana,,KETERANGAN,,Dana,Dana
+,C:\WP3WT\PPKT\SHP\MANGUDU\mk_pgs.shp,"['FID','ID','AREA','PERIMETER','NM_ID','NMR_ID','NAMA','KWRGN','ALAS_PN','KETERANGAN','PRFSI','DMSLI','JNS_PN','HECTARES','KODE_PULAU']",1,Pulau Kecil,2017,NTB,,Kecamatan Mangudu,,KETERANGAN,,Mangudu,Mangudu
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\01. Aceh 2011\05 06 12\LAPORAN AKHIR_2011_ACEH\LAPORAN AKHIR PESISIR 2011\2. SAMPOINIET\Sampoiniet\Pertanahan_Ok.shp,"['FID','FID_Pengg','Kode_PGT','Jenis_PGT','Jenis_Faat','KET','Kode_Kasa','Jenis_Kas','Nama_Stat','Tipe_Stat','Ket_1','Las']",1,Pesisir,2011,Aceh,,Kecamatan Sampoiniet,Kode_Kuasa,,,Sampoiniet,Sampoiniet
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\01. Aceh 2011\05 06 12\LAPORAN AKHIR_2011_ACEH\LAPORAN AKHIR PESISIR 2011\4. KRUENG SABEE\KRUENG SABEE GIS\Pesisir Kr Sabee Gis\Krueng Sabee.gdb\Penguasaan,"['ID','Penguasaan','las']",1,Pesisir,2011,Aceh,,Kecamatan Krueng Sabee,,Penguasaan,,Krueng Sabee,Krueng Sabee
+,C:\WP3WT\PPKT\SHP\Simuk\penguasaan.shp,"['FID','ID','AREA','PERIMETER','STATUS','TEXTSTRING']",1,Pulau Kecil,2017,Sumatera Utara,,Kecamatan Simuk,,STATUS,,Simuk,Simuk
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\03. Sumbar 2013\Ulakan Tapakis\Shp\Penguasaan.shp,"['FID','Id','area','Penguasaan','kode']",1,Pesisir,2012,Sumatera Barat,,Kecamatan Ulakan Tapakis,kode,,,Ulakan Tapakis,Ulakan Tapakis
+,F:\WP3WT\@ Integrasi Data\2013\4 Riau\2013\Kabupaten Bengkalis\Kecamatan Bukit Batu\psn_bukitBatu.shp,"['FID','FID_Export','K_pengasa','Pengsaan','objID','objType','objYear','wapName','wakName','wacName','psnID','psnObjName','area','psnRemarks','FID_Expo_1','Nama_Kab','Kec','Desa']",1,Pesisir,2013,Riau,,Kecamatan Bukit Batu,,psnObjName,,Bukit Batu,Bukit Batu
+,F:\WP3WT\@ Integrasi Data\2013\4 Riau\2013\Kabupaten Meranti\Kecamatan Tebing Tinggi Barat\psn_tebingtinggiBarat.shp,"['FID','objID','objType','objYear','wapName','wakName','wacName','psnID','psnObjName','area','psnRemakrs']",1,Pesisir,2013,Riau,,Kecamatan Tebing Tinggi Barat,,psnObjName,,Tebing Tinggi Barat,Tebing Tinggi Barat
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Daerah 2017\RIAU\SHP\Kec. Kuala Kampar\psn_Kuala Kampar Area.shp,"['FID_psn_Ku','DESA','wapName','wakName','wacName','Area','psnObjName','psnID']",1,Pesisir,2017,Riau,,Kecamatan Kuala Kampar,,psnObjName,,Kuala Kampar,Kuala Kampar
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Daerah 2017\RIAU\SHP\Kec. Sabak Auh\psn_Sabak Auh Eliminate.shp,"['KECAMATA_1','DESA_1','psnObjName','Area','psnID','wapName','wacName']",1,Pesisir,2017,Riau,,Kecamatan Sabak Auh,,psnObjName,,Sabak Auh,Sabak Auh
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Daerah 2017\RIAU\SHP\Kec. Sungai Apit\psn_Sungai Apit Area update 412018.shp,"['KECAMATA_1','DESA_1','psnObjName','Area','psnID','wapName','wacName']",1,Pesisir,2017,Riau,,Kecamatan Sungai Apit,,psnObjName,,Sungai Apit,Sungai Apit
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Daerah 2017\RIAU\SHP\Kec. Teluk Meranti\Psn_Teluk_Meranti.shp,"['FID_psn_Te','ObjID','objType','objYear','wapName','wakName','wacName','ptnID','area','psnObjName','psnRemarks','DESA']",1,Pesisir,2017,Riau,,Kecamatan Teluk Meranti,,psnObjName,,Teluk Meranti,Teluk Meranti
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\06. Jambi 2010\CD TERAKHIR\Kab. Tanjung Jabung Timur\kuala_jambi\arcview\penguasaan.shp,"['FID','ID','KODE_JENIS','AREA','PERIMETER','HECTARES']",1,Pesisir,2010,Jambi,,Kecamatan Kuala Jambi,KODE_JENIS,,,Kuala Jambi,Kuala Jambi
+,F:\WP3WT\@ Integrasi Data\2013\8 Sumsel\2013\Kabupaten Ogan Komering Ilir\Danau Teluk Gelam\psn_danauTelukGelam.shp,"['FID','objID','objType','objYear','wapName','wakName','wacName','psnID','psnObjName','psnRemarks','area']",1,Pesisir,2013,Sumatera Selatan,,Kecamatan Teluk Gelam,,psnObjName,,Teluk Gelam,Teluk Gelam
+,C:\WP3WT\new_data\SHP-WP3WT-SUMSEL-2015sd2017\2016\PKT 2016\Pulau Maspari\Shp\Penguasaan_Tanah_Maspari.shp,"['FID','Nama','No_Identif','Penggnaan','Keterangan','Las_M2','Las_Ha','Kode_Peng','Penguasaan']",1,Pesisir,2016,Sumatera Selatan,,Kecamatan Pulau Maspari,,Penguasaan,,Pulau Maspari,Pulau Maspari
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\7. Bengkulu\WP3WT_BENGKULU_2016\2 KECAMATAN KOTA MUKOMUKO\PETA\PETA-P4T\O_KOTA_diss.shp,"['FID','Aname','Penguasaan','Kode_Jen_1','Hectares']",1,Pesisir,2016,Bengkulu,,Kecamatan Kota Muko-Muko,,Penguasaan,,Kota Muko-Muko,Kota Muko-Muko
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\7. Bengkulu\WP3WT_BENGKULU_2016\1 KECAMATAN XIV KOTO\PETA\PETA-P4T\P4T\O_XIV_KOTO.shp,"['FID','Aname','Keterangan','Kode','Penguasaan','Kode_Jenis','Pemilikan','Kode_','ID']",1,Pesisir,2016,Bengkulu,,Kecamatan XIV Koto,,Penguasaan,,XIV Koto,XIV Koto
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2016\7. Bengkulu\WP3WT_BENGKULU_2016\3 KECAMATAN AIR DIKIT\PETA\PETA-P4T\O_Airdikit.shp,"['FID','Ket','Penguasaan','Kode_Jen_1']",1,Pesisir,2016,Bengkulu,,Kecamatan Air Dikit,,Penguasaan,,Air Dikit,Air Dikit
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\10. Lampung 2012\Laporan Pesisir 2012 Lampung\Peta\Bengkunat\Pengusaan_Bengkunat_DD_Clip.shp,"['FID','Nama_Layer','Tipe','No_Identif','Kecamatan','Kode','Jenis']",1,Pesisir,2012,Lampung,,Kecamatan Bengkunat,Kode,,,Bengkunat,Bengkunat
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\08. Babel 2010\13 11 2013\Data Spasial\Sungailiat\Penguasaan\Penguasaan.shp,"['FID','LANDCOV','PENGUASAAN','PGTOBJNAME','KODE','NAMA','AREA','PERIMETER','HECTARES']",1,Pesisir,2010,Bangka Belitung,,Kecamatan Sungai Liat,,PENGUASAAN,,Sungai Liat,Sungai Liat
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2011\Ada Spasial\08. Babel 2011\Data Pesisir 2011\Tukak Sadai\Penguasaan_Dissolve.shp,"['FID','Penguasaan','Las','Ha']",1,Pesisir,2011,Bangka Belitung,,Kecamatan Tukaksadai,,Penguasaan,,Tukaksadai,Tukaksadai
+,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2014\8. Bangka Belitung 2014\Inventarisasi Wilayah Pesisir Babel 2014\1. Spasial\SHP\Kab. Belitung\Kecamatan Tanjung Pandan\Penguasaan Tanah\psn_tanjung_pandan1.shp,"['FID','objID','objType','objYear','wapName','wakName','wacName','pmnID','pmnObjName','area','pmnRemarks']",1,Pesisir,2014,Bangka Belitung,,Kecamatan Tanjungpandan,,pmnObjName,,Tanjungpandan,Tanjungpandan
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,
+,,,,,,,,Kecamatan ,,,,,

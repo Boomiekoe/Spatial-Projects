@@ -1,0 +1,46 @@
+﻿a,b,c,objID,objType,objYear,wapName,wakName,wacName,pmnID,pmnObjName,area,pmnRemarks,kec
+56936,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bone\Penguasaan_bone.shp,"['Id', 'Penguasaan', 'jenispeng', 'keterangan']",2,Pesisir,2010,Gorontalo,,Kecamatan Bone,,,,Bone,Bone
+56999,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bulawa\Penguasaan_Bulawa.shp,"['OBJECTID', 'Id', 'PENGUASAAN', 'keterangan', 'Shape_Leng', 'Shape_Area']",2,Pesisir,2010,Gorontalo,,Kecamatan Bulawa,,,,Bulawa,Bulawa
+56957,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bone Pantai\PENGUASAAN_Project.shp,"['Id', 'PENGUASAAN', 'keterangan']",2,Pesisir,2010,Gorontalo,,Kecamatan BonePantai,,,,Bone Pantai,BonePantai
+118889,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2009-2010\2010\Ada Spasial\29. Gorontalo 2010\PETA PENGUASAAN\Kec.Bone Raya\Penguasaan.shp,"['Id', 'Penguasaan']",2,Pesisir,2010,Gorontalo,,Kecamatan BoneRaya,,,,Bone Raya,BoneRaya
+259770,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\29. Gorontalo 2012\PETA PESISIR BOALEMO 2012\Peta\Peta Penguasaan Tanah\Kecamatan Mananggu\Penguasaan.shp,"['Id', 'Kode_peng', 'penguasaan', 'luas', 'keterangan', 'luas_ha']",2,Pesisir,2012,Gorontalo,,Kecamatan Boalemo,,,,Boalemo,Boalemo
+57112,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2012\Kecamatan Botumoito\penguasaan Botumoito.shp,"['Id', 'Kode_Peng', 'Penguasaan', 'Keterangan', 'Luas', 'luas_ha']",2,Pesisir,2012,Gorontalo,,Kecamatan Botumoito,,,,Botumoito,Botumoito
+259770,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\29. Gorontalo 2012\PETA PESISIR BOALEMO 2012\Peta\Peta Penguasaan Tanah\Kecamatan Mananggu\Penguasaan.shp,"['Id', 'Kode_peng', 'penguasaan', 'luas', 'keterangan', 'luas_ha']",2,Pesisir,2012,Gorontalo,,Kecamatan Mananggu,,,,Mananggu,Mananggu
+57024,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Anggrek\penguasaan_anggrek.shp,"['OBJECTID', 'Shape_Leng', 'Shape_Area', 'kuasa_id', 'penguasaan', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan Anggrek,,,,Anggrek,Anggrek
+57045,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Atinggola\penguasaan_atinggola.shp,"['OBJECTID', 'Shape_Leng', 'Shape_Area', 'kuasa_id', 'penguasaan', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan Atinggola,,,,Atinggola,Atinggola
+57066,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Gentuma Raya\penguasaan_gentumaraya.shp,"['OBJECTID', 'Shape_Leng', 'Shape_Area', 'kuasa_id', 'penguasaan', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan GentumaRaya,,,,GentumaRaya,GentumaRaya
+57087,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Kwandang\penguasaan_kwandang.shp,"['OBJECTID', 'Shape_Leng', 'Shape_Area', 'kuasa_id', 'penguasaan', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan Kwandang,,,,Kwandang,Kwandang
+339481,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2014\29. Gorontalo 2014\analisa\randangan\penguasaan_randangan.shp,"['QNAME_1', 'KECANAME', 'DESA_NAME', 'penguasaan', 'KODE', 'COUNT', 'Luas_Ha']",2,Pesisir,2014,Gorontalo,,Kecamatan randangan,,,,randangan,randangan
+339541,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2014\29. Gorontalo 2014\analisa\Wanggarasi\penguasaan_wanggarasi.shp,"['status', 'QNAME', 'QCODE', 'KECANAME', 'DESA_NAME', 'status_hak', 'penguasaan', 'COUNT', 'Luas_Ha']",2,Pesisir,2014,Gorontalo,,Kecamatan Wanggarasi,,,,Wanggarasi,Wanggarasi
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

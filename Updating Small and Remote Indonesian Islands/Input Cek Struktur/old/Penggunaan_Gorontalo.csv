@@ -1,0 +1,45 @@
+﻿a,b,c,objID,objType,objYear,wapName,wakName,wacName,pmnID,pmnObjName,area,pmnRemarks,kec
+56929,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bone\Penggunaan_Kecamatan_Bone.shp,"['AREA', 'QNAME', 'ANAME']",2,Pesisir,2010,Gorontalo,,Kecamatan Bone,,,,Bone,Bone
+56992,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bulawa\Penggunaan_Bulawa.shp,"['AREA', 'QNAME', 'ANAME']",2,Pesisir,2010,Gorontalo,,Kecamatan Bulawa,,,,Bulawa,Bulawa
+56950,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bone Pantai\Penggunaan_Bone_Pantai_OK.shp,"['OBJECTID', 'AREA', 'QNAME', 'ANAME', 'Id', 'Shape_Leng', 'Shape_Area']",2,Pesisir,2010,Gorontalo,,Kecamatan BonePantai,,,,Bone Pantai,BonePantai
+56971,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2010\Kecamatan Bone Raya\Penggunaan_Bone_Raya_OK.shp,"['AREA', 'QNAME', 'ANAME']",2,Pesisir,2010,Gorontalo,,Kecamatan BoneRaya,,,,Bone Raya,BoneRaya
+57105,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2012\Kecamatan Botumoito\penggunaan Botumoito.shp,"['Id', 'Pengg_Tana', 'Keterangan', 'kode_pengg', 'penggunaan', 'luas_ha']",2,Pesisir,2012,Gorontalo,,Kecamatan Botumoito,,,,Botumoito,Botumoito
+259999,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2011-2012\2012\Ada Spasial\29. Gorontalo 2012\SHP\Mananggu\penggunaan.shp,"['Id', 'Peng_tanah', 'Keterangan', 'kode_pengg', 'penggunaan', 'luas_ha']",2,Pesisir,2012,Gorontalo,,Kecamatan Mananggu,,,,Mananggu,Mananggu
+57017,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Anggrek\penggunaan_anggrek.shp,"['OBJECTID', 'AREA', 'PERIMETER', 'Q_', 'Q_ID', 'QCODE', 'QNAME', 'QCODE50_09', 'Acres', 'Hectares', 'Shape_Leng', 'Shape_Area']",2,Pesisir,2011,Gorontalo,,Kecamatan Anggrek,,,,Anggrek,Anggrek
+57038,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Atinggola\penggunaan_atinggola.shp,"['OBJECTID', 'QCODE', 'QNAME', 'Shape_Leng', 'Shape_Area', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan Atinggola,,,,Atinggola,Atinggola
+57059,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Gentuma Raya\penggunaan_gentumaraya.shp,"['OBJECTID', 'QCODE', 'QNAME', 'Shape_Leng', 'Shape_Area', 'Perimeter', 'Area', 'Acres', 'Hectares', 'Keterangan']",2,Pesisir,2011,Gorontalo,,Kecamatan GentumaRaya,,,,GentumaRaya,GentumaRaya
+57080,F:\WP3WT\@ Integrasi Data\2013\24 Gorontalo 2013\2011\Kecamatan Kwandang\penggunaan_kwandang.shp,"['OBJECTID', 'Q_ID', 'QNAME', 'Acres', 'Hectares', 'Shape_Leng', 'Shape_Area', 'Perimeter', 'Area']",2,Pesisir,2011,Gorontalo,,Kecamatan Kwandang,,,,Kwandang,Kwandang
+339474,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2014\29. Gorontalo 2014\analisa\randangan\penggunaan_randangan.shp,"['QNAME_1', 'KECANAME', 'DESA_NAME', 'penguasaan', 'KODE', 'COUNT', 'Luas_Ha']",2,Pesisir,2014,Gorontalo,,Kecamatan randangan,,,,randangan,randangan
+339534,F:\WP3WT\Hasil Inventarisasi Daerah\@ Data Inventarisasi Daerah 2013-2014-2015-2016\2014\29. Gorontalo 2014\analisa\Wanggarasi\penggunaan_wanggarasi.shp,"['status', 'QNAME', 'QCODE', 'KECANAME', 'DESA_NAME', 'COUNT', 'Luas_Ha']",2,Pesisir,2014,Gorontalo,,Kecamatan Wanggarasi,,,,Wanggarasi,Wanggarasi
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

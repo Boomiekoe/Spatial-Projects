@@ -1,0 +1,23 @@
+﻿a,b,c,objID,objType,objYear,wapName,wakName,wacName,pmnID,pmnObjName,area,pmnRemarks,kec
+53734,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2013\Kecamatan Gerokgak\penggunaan_tanah_gerokgak.shp,"['KETERANGAN', 'Desa', 'Kecamatan', 'Kabupaten', 'KodeJPGT', 'Jns_Pemanf', 'Luas']",1,,2013,Bali,,,,,,,Gerokgak
+53755,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2013\Kecamatan Jembrana\penggunaan_tanah_jembrana.shp,"['KETERANGAN', 'Desa', 'Kecamatan', 'Kabupaten', 'KodeJPGT', 'Jns_Pemanf', 'Luas']",1,,2013,Bali,,,,,,,Jembrana
+53776,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2013\Kecamatan Melaya\penggunaan_tanah_melaya.shp,"['KETERANGAN', 'Desa', 'Kecamatan', 'Kabupaten', 'KodeJPGT', 'Jns_Pemanf', 'Luas']",1,,2013,Bali,,,,,,,Melaya
+53797,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2013\Kecamatan Negara\penggunaan_tanah_negara.shp,"['KETERANGAN', 'Desa', 'Kecamatan', 'Kabupaten', 'KodeJPGT', 'Jns_Pemanf', 'Luas']",1,,2013,Bali,,,,,,,Negara
+53338,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Banjakaran\PenggunaanBanjarankan@mi.shp,"['KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL', 'LUAS']",2,,2010,Bali,,,,,,,Banjakaran
+53604,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Banjar\Penggunaan_Banjar.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Banjar
+53625,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Buleleng\Penggunaan_Buleleng.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Buleleng
+53646,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Kubutambahan\Penggunaan_Kubutambahan.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Kubutambahan
+53667,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Sawan\Penggunaan_Sawan.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Sawan
+53688,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Seririt\Penggunaan_seririt.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Seririt
+53709,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2012\Kecamatan Tejakula\Penggunaan_Tejakula.shp,"['KETERANGAN', 'Kabupaten_', 'Kd_Jns_Pgt', 'Jns_Pemanf', 'Kecamatan_', 'Luas']",3,,2012,Bali,,,,,,,Tejakula
+53514,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2011\Kecamatan Abang\Penggunaan Abang.shp,"['Kode_GunaT', 'Pemanfaata', 'Keterangan', 'Luas']",4,,2011,Bali,,,,,,,Abang
+53535,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2011\Kecamatan Karangasem\Penggunaan Karangasem.shp,"['Kode_GunaT', 'Pemanfaata', 'Keterangan', 'Luas']",4,,2011,Bali,,,,,,,Karangasem
+53556,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2011\Kecamatan Kubu\Penggunaan Kubu.shp,"['Kode_GunaT', 'Pemanfaata', 'Keterangan', 'Luas']",4,,2011,Bali,,,,,,,Kubu
+53577,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2011\Kecamatan Manggis\Penggunaan Manggis.shp,"['Kode_GunaT', 'Pemanfaata', 'Keterangan', 'Luas']",4,,2011,Bali,,,,,,,Manggis
+53357,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Blahbatu\PenggunaanBlahbatu@mi.shp,"['LUAS', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL', 'KETERANGAN']",2,,2010,Bali,,,,,,,Blahbatu
+53377,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Dawan\PenggunaanDawan@mi.shp,"['LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,Dawan
+53426,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan DepansarTimur\PenggunaanDenpasarTimur@mi.shp,"['LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,DenpasarTimur
+53440,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Gianyar\PenggunaanGianyar@mi.shp,"['LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,Gianyar
+53468,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Klungkun\PenggunaanKlungkung@mi.shp,"['LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,Klungkung
+53398,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan DepansarSelatan\PenggunaanDenpasarSelatan@mi.shp,"['OBJECTID', 'LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,DenpasarSelatan
+a,F:\WP3WT\@ Integrasi Data\2013\17 Bali 2013\2010\Kecamatan Sukowati\PenggunaaanSukawati@mi.shp,"['LUAS', 'KETERANGAN', 'ID', 'ID_TABEL', 'ID_WILAYAH', 'WILAYAH', 'JENIS', 'SIMBOL']",2,,2010,Bali,,,,,,,Sukawati
